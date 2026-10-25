@@ -1,3 +1,4 @@
+live demo - https://movie-revieww.streamlit.app/
 # Movie Review Sentiment Analysis using BiLSTM
 
 A medium-level deep learning project that classifies IMDb movie reviews as positive or negative using a Bidirectional LSTM neural network.
